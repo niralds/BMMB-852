@@ -52,6 +52,35 @@ Run the script
 bash demo.sh 
 ````
 
+#### Reproducing someones data 
+
+These are the variables i inputed: 
+
+````
+# Set the error handling and trace
+set -uex
+
+# Define all variables at the top.
+
+# The url is 
+URL="https://ftp.ensembl.org/pub/current_gff3/mus_musculus/Mus_musculus.GRCm39.112.gff3.gz"
+
+# Name of gff3 file 
+GFF="Mus_musculus.GRCm39.112"
+````
+
+My code worked and it gave an output 
+
+I also added an additional code that wasn't in mine, but in theirs 
+
+````
+#clean up gff3 file
+cat ${GFF} | grep -v '#' > clean.gff3
+````
+
+The code worked 
+
+
 # Make use of ontologies 
 
 Software installation 
