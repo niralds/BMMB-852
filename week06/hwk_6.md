@@ -4,12 +4,12 @@ I was looking for yeast sequecing data and these were the first few files i foun
 
 SRR11466505_1.fastq
 
-![alt text](<../../../Desktop/Screenshot 2024-10-05 at 1.17.43 PM.png>)
+![alt text](<../../BMMB-852/week06/images/Screenshot 2024-10-05 at 1.17.43 PM.png>)
 
 This data seems really, so i tried looking for more data, and found this file 
 SRR30805512
 
-![alt text](<../../../Desktop/Screenshot 2024-10-05 at 1.20.38 PM.png>)
+![alt text](<../../BMMB-852/week06/images/Screenshot 2024-10-05 at 1.20.38 PM.png>)
 
 So i went ahead and used this file to answer the following questions: 
 Use data generated on the Illumina or Iontorrent platforms.
@@ -75,6 +75,6 @@ No change in the quality
 
 So i decided to just trim the poly G and this is what i got 
 
-![alt text](<../../../Desktop/Screenshot 2024-10-05 at 1.30.18 PM.png>)
+
 
 There are more green checkmarks and fewer yellow warnings 
