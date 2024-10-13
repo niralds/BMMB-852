@@ -134,5 +134,5 @@ make all
 to clean the directory: 
 
 ````
-clean
+make clean
 ````
