@@ -89,7 +89,7 @@ Open these in IGV
 
 #### Visualize the resulting BAM files for your simulated reads and the reads downloaded from SRA.
 
-![alt text](<../../BMMB-852/week08/Screenshot 2024-10-20 at 5.47.24 PM.png>)
+![alt text](<image/Screenshot 2024-10-20 at 5.47.24 PM.png>)
 
 #### Generate alignment statistics for the reads from both sources, simulated and SRA.
 
