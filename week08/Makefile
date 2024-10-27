@@ -23,7 +23,7 @@ BAM=bam/${SRR}.bam
 usage:
 	@echo                "# ACC=${ACC}"
 	@echo "make dir      # Make the directories "
-	@echo "make refs        # Get the reference genome "
+	@echo "make ref        # Get the reference genome "
 	@echo "make SRA              # Fetch sequence data from SRA (fastq format)"
 	@echo "make index            # Index the genome"
 	@ echo "make align           # Align the reads"
