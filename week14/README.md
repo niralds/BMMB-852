@@ -50,7 +50,7 @@ make all
 
 the bigwig file looks like this: 
 
-![alt text](<screenshot/Screenshot 2024-12-10 at 8.10.36 PM.png>)
+![alt text](<plots/Screenshot 2024-12-10 at 8.10.36 PM.png>)
 
 it somewhat looks like the RNA seq worked
 
